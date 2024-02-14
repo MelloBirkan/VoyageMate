@@ -39,7 +39,6 @@
 		1BCF1CB72B7D3FF400F6E3CD = {
 			isa = PBXGroup;
 			children = (
-				1BCF1CD32B7D45F000F6E3CD /* EditDestinationView.swift */,
 				1BCF1CC22B7D3FF400F6E3CD /* VoyageMate */,
 				1BCF1CC12B7D3FF400F6E3CD /* Products */,
 			);
@@ -56,6 +55,7 @@
 		1BCF1CC22B7D3FF400F6E3CD /* VoyageMate */ = {
 			isa = PBXGroup;
 			children = (
+				1BCF1CD32B7D45F000F6E3CD /* EditDestinationView.swift */,
 				1BCF1CC32B7D3FF400F6E3CD /* VoyageMateApp.swift */,
 				1BCF1CC52B7D3FF400F6E3CD /* ContentView.swift */,
 				1BCF1CC72B7D3FF400F6E3CD /* Destination.swift */,
