@@ -12,6 +12,7 @@
 		1BCF1CC82B7D3FF400F6E3CD /* Destination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BCF1CC72B7D3FF400F6E3CD /* Destination.swift */; };
 		1BCF1CCA2B7D3FF600F6E3CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BCF1CC92B7D3FF600F6E3CD /* Assets.xcassets */; };
 		1BCF1CCD2B7D3FF600F6E3CD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BCF1CCC2B7D3FF600F6E3CD /* Preview Assets.xcassets */; };
+		1BCF1CD42B7D45F000F6E3CD /* EditDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BCF1CD32B7D45F000F6E3CD /* EditDestinationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		1BCF1CC72B7D3FF400F6E3CD /* Destination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Destination.swift; sourceTree = "<group>"; };
 		1BCF1CC92B7D3FF600F6E3CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1BCF1CCC2B7D3FF600F6E3CD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1BCF1CD32B7D45F000F6E3CD /* EditDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDestinationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +39,7 @@
 		1BCF1CB72B7D3FF400F6E3CD = {
 			isa = PBXGroup;
 			children = (
+				1BCF1CD32B7D45F000F6E3CD /* EditDestinationView.swift */,
 				1BCF1CC22B7D3FF400F6E3CD /* VoyageMate */,
 				1BCF1CC12B7D3FF400F6E3CD /* Products */,
 			);
@@ -143,6 +146,7 @@
 				1BCF1CC62B7D3FF400F6E3CD /* ContentView.swift in Sources */,
 				1BCF1CC82B7D3FF400F6E3CD /* Destination.swift in Sources */,
 				1BCF1CC42B7D3FF400F6E3CD /* VoyageMateApp.swift in Sources */,
+				1BCF1CD42B7D45F000F6E3CD /* EditDestinationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
